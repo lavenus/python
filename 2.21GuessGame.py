@@ -34,7 +34,7 @@ guess = int(guessString) # convert string to number
 while 0 <= guess <=100:
     if guess > number:
         print "Guessed Too High."
-    else guess < number:
+    elif guess < number:
         print "Guessed Too Low."
     else:               # correct guess, exit with break
         print "You guessed it. The number was:",number
