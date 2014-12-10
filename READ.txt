@@ -1,0 +1,2 @@
+READ
+这是一个Python练习的git仓
